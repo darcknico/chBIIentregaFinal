@@ -19,7 +19,7 @@ Mejorar la arquitectura del servidor desarrollado durante el curso, enfocándose
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/darcknico/chBIIentregaI
+    git clone https://github.com/darcknico/chBIIentregaFinal
     cd DesarrolloApp
     ```
 
